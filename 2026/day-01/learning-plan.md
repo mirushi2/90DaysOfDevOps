@@ -2,7 +2,7 @@
 
 ## About Me
 - Current Level: Working Professional (Software Engineer)
-- Goal: Transition from application development knowledge to practical DevOps and Cloud Engineering skills.
+- Goal: Transition from AI knowledge to practical DevOps and Cloud Engineering skills.
 
 ## My Understanding of DevOps & Cloud Engineering
 DevOps is a culture and set of practices that improve collaboration between development and operations teams to deliver software faster, more reliably, and with higher quality. Cloud Engineering focuses on designing, deploying, and managing scalable infrastructure and applications using cloud platforms such as AWS, Azure, or GCP.
